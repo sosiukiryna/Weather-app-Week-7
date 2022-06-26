@@ -32,6 +32,7 @@ li {
   line-height: 19px;
   margin: 0;
   padding: 10px;
+  text-transform: capitalize;
 }
 
 .weather-temperature img {
