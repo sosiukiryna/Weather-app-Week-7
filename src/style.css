@@ -32,6 +32,8 @@ li {
   line-height: 19px;
   margin: 0;
   padding: 10px;
+}
+li:first-letter {
   text-transform: capitalize;
 }
 
